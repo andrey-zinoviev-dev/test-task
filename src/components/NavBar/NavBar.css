@@ -1,0 +1,10 @@
+.header__navigation-link {
+    text-decoration: none;
+    color: black;
+}
+.header__navigation-link_status_active {
+    color: #0065F2;
+}
+.header__navigation-link:not(:last-of-type) {
+    margin-right: 33px;
+}

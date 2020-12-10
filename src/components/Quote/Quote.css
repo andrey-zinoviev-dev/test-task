@@ -1,0 +1,12 @@
+.main__quotes-list-element {
+    background: #F0F0F1;
+    padding: 11px 0;
+    width: 116px;
+    margin-bottom: 8px;
+}
+.main__quotes-list-element:not(:nth-of-type(4n)) {
+    margin-right: 8px;
+}
+.main__quotes-list-element-name {
+    margin-right: 12px;
+}

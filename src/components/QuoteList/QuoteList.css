@@ -1,0 +1,8 @@
+.main__quotes-list {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
+    margin: 0 268px;
+    flex-wrap: wrap;
+}
